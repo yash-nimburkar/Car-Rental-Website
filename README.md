@@ -1,2 +1,2 @@
 # Car-Rental-Website
-Frontend of a website for renting a car online
+Frontend UI of a website for renting a car online using HTML CSS and Javascript
